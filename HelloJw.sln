@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloJw", "HelloJw\HelloJw.csproj", "{4CEAB6CE-8882-4175-9A5E-6BF54E9F217A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleJw", "ModuleJw\ModuleJw.csproj", "{EC38A31F-8397-4412-8AAB-E003B1479E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CEAB6CE-8882-4175-9A5E-6BF54E9F217A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEAB6CE-8882-4175-9A5E-6BF54E9F217A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEAB6CE-8882-4175-9A5E-6BF54E9F217A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEAB6CE-8882-4175-9A5E-6BF54E9F217A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC38A31F-8397-4412-8AAB-E003B1479E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC38A31F-8397-4412-8AAB-E003B1479E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC38A31F-8397-4412-8AAB-E003B1479E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC38A31F-8397-4412-8AAB-E003B1479E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
